@@ -54,7 +54,7 @@ Python 已经成为最受欢迎的程序设计语言之一。2011年1月，它�
 
 如下图，数据科学的编程语言排行榜，可以看到python名列前茅
 
-![Top Analytics Data Science Machine Learning Software 2018 3yrs](/Users/susmote/easypython/images/top-analytics-data-science-machine-learning-software-2018-3yrs-539.png)  
+![Top Analytics Data Science Machine Learning Software 2018 3yrs](../images/top-analytics-data-science-machine-learning-software-2018-3yrs-539.png)  
 
   
 
@@ -85,7 +85,7 @@ Python 已经成为最受欢迎的程序设计语言之一。2011年1月，它�
 
 - Reddit - 社交分享网站，最早用Lisp开发，在2005年转为python
 
-![Reddit](/Users/susmote/easypython/images/t2Un7qM46WDoBn5BuMdHEy72sqQAawdhuCyQrweWh4e1yB-Oi3ztuIw2AeVy71onW8701iq-p_AiAud6r8waZmq-2w.png)
+![Reddit](../images/t2Un7qM46WDoBn5BuMdHEy72sqQAawdhuCyQrweWh4e1yB-Oi3ztuIw2AeVy71onW8701iq-p_AiAud6r8waZmq-2w.png)
 
 - Dropbox - 文件分享服务
 - 豆瓣网 - 图书、唱片、电影等文化产品的资料数据库网站
@@ -113,7 +113,7 @@ Python 已经成为最受欢迎的程序设计语言之一。2011年1月，它�
 - Mozilla - 为支持和领导开源的Mozilla项目而设立的一个非营利组织
 - Quora - 社交问答网站
 
-![quora](/Users/susmote/easypython/images/2000px-Quora_logo_2015.png)
+![quora](../images/2000px-Quora_logo_2015.png)
 
 - Path - 私密社交应用
 - Pinterest - 图片社交分享网站
@@ -200,7 +200,7 @@ Python的作者有意的设计限制性很强的语法，使得不好的编程�
 
 首先我用一张图来说明哪些是强类型语言，哪些是弱类型语言，以及动态和静态语言的分类  
 
-![语言分类](/Users/susmote/easypython/images/201803251112024653190.png)  
+![语言分类](../images/201803251112024653190.png)  
 
 
 
